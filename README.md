@@ -12,14 +12,18 @@
 
 Este proyecto fue desarrollado como parte de un desafío de análisis de datos para **Telecom X**, una empresa de telecomunicaciones que enfrenta un problema crítico de cancelación de clientes (**churn**).
 
-El trabajo se divide en **dos partes**:
+El trabajo se divide en **dos partes complementarias**:
 
-- **Parte 1 — ETL y EDA:** Extracción, limpieza y análisis exploratorio de los datos para entender el perfil de los clientes que cancelan.
-- **Parte 2 — Machine Learning:** Preparación de datos, entrenamiento de modelos predictivos y generación de insights estratégicos para reducir el churn.
+- **Parte 1 — ETL y EDA:** Extracción, limpieza y análisis exploratorio de los datos para entender el perfil de los clientes que cancelan.  
+  📎 Repositorio disponible en: https://github.com/ernes2111/Challenge-Telecom-X
+- **Parte 2 — Machine Learning:** Preparación de datos, entrenamiento de modelos predictivos y generación de insights estratégicos para reducir el churn (este repositorio).
+
+Ambas partes conforman un flujo completo **end-to-end**: desde datos crudos hasta modelo predictivo accionable.
 
 ---
 
 ## 🗂️ Estructura del Repositorio
+
 
 ```
 telecom-x-churn/
@@ -33,6 +37,9 @@ telecom-x-churn/
 ---
 
 ## 🔧 Parte 1 — ETL y Análisis Exploratorio (EDA)
+
+> 📎 Esta etapa se desarrolla en detalle en el repositorio:  
+> https://github.com/ernes2111/Challenge-Telecom-X
 
 ### Objetivos
 - Extraer y cargar los datos crudos desde la fuente original.
@@ -53,7 +60,10 @@ telecom-x-churn/
 
 ## 🤖 Parte 2 — Predicción de Churn con Machine Learning
 
+Esta etapa toma como input el dataset limpio generado en la Parte 1 (`datos_tratados.csv`) y transforma el análisis descriptivo en un modelo predictivo aplicable al negocio.
+
 ### Pipeline Completo
+
 
 ```
 Carga de datos tratados
