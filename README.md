@@ -151,7 +151,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 3. Ejecutar los notebooks en orden:
-   - `TelecomX_Part1_EDA.ipynb`
+   - `TelecomX_LATAM.ipynb`
    - `TelecomX_Part2_Final.ipynb`
 
 ---
