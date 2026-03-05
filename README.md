@@ -141,8 +141,8 @@ Los contratos mensuales concentran el mayor riesgo.
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/telecom-x-churn.git
-cd telecom-x-churn
+git clone https://github.com/ernes2111/Challenge-Telecom-X-part2.git
+cd Challenge-Telecom-X-part2
 ```
 
 2. Instalar dependencias:
