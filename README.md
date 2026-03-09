@@ -1,5 +1,7 @@
 # 📡 Telecom X — Análisis y Predicción de Cancelación de Clientes (Churn)
 
+[🇪🇸 Ver en Español](README.md) | [🇬🇧 Read in English](README_en.md)
+
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.8-F7931E?style=flat&logo=scikit-learn&logoColor=white)
